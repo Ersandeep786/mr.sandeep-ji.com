@@ -1,0 +1,6 @@
+mr-sandeepji/
+ ├─ index.html       → वेबसाइट का main page
+ ├─ style.css        → website के लिए CSS
+ ├─ script.js        → JavaScript functionality
+ └─ assets/          → images, PDFs, icons आदि
+
